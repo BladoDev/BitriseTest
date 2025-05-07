@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.bladodev.bitrisetestapplication"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.bladodev.bitrisetestapplication"
