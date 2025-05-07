@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260846771584",
+    "project_id": "bitrise-test-1e314",
+    "storage_bucket": "bitrise-test-1e314.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260846771584:android:f7167b13652a3811f83565",
+        "android_client_info": {
+          "package_name": "com.bladodev.bitrisetestapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHo5aGtKfWpvuGN7qVu2OzDALygpvUDb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
